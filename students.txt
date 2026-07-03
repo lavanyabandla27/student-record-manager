@@ -1,0 +1,2 @@
+Student ID,Name,Email,Phone,CGPA
+STU570,Lavanya,lavanyabandla04@gmail.com,9087654321,8.99

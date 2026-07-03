@@ -3,5 +3,3 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Local text databases / data files
-students.txt
